@@ -1,0 +1,82 @@
+head {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black
+}
+
+.navbar {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbr {
+    float: left;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 30px;
+    background-color: rgb(32, 32, 32);
+    margin: 0px 10px;
+}
+
+.links {
+    display: block;
+    padding: 10px 14px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbr .links:hover {
+    background-color: darkgray;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(32, 32, 32);
+    color: white;
+    margin-top: 50px;
+}
+
+.self-pic {
+    display: flex;
+    border: 2px solid;
+    border-color: white;
+    border-radius: 100px;
+    width: 200px;
+}
+
+#flex-container {
+    display: flex;
+    gap: 30px
+}
+
+#linkedin {
+    font-weight: bold;
+    color: white
+}
+
+#linkedin:hover {
+    color: darkgray;
+}
+
+.Email-box {
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.nwsltr-btn {
+    background: white;
+    color: black    ;
+    border: none;
+    font-weight: bold;
+    padding: 5px 10px
+}
+
+.nwsltr-btn:hover {
+    background-color: darkgray;
+}
