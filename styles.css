@@ -1,5 +1,5 @@
 head {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: black
 }
 
@@ -33,6 +33,8 @@ head {
 .navbr .links:hover {
     background-color: darkgray;
 }
+
+/* BODY CSS STARTS BELOW */
 
 body {
     font-family: Arial, Helvetica, sans-serif;
