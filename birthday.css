@@ -1,0 +1,20 @@
+body { 
+    font-family: 'Happy Monkey', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: #fff;
+    background-color: #a2d2ff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 1px 1px 1px black ;
+}
+
+.nick {
+    border-radius: 100px;
+    width: 200px;
+    border: 6px solid #EFB0C9;
+}
+
+.texts {
+    background-color: #EFB0C9;
+}
